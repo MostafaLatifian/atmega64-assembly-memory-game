@@ -1,0 +1,48 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega64"</DEVICE>
+ <WORKING_DIR>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m64def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\Debug\MostafaLatifian.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>MostafaLatifian.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>MostafaLatifian.map</FILE>
+  <FILE>MostafaLatifian.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\main.asm</FILE><LINE>17</LINE></main>
+  <EXT_INT0_ISR><FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\main.asm</FILE><LINE>141</LINE></EXT_INT0_ISR>
+  <EXT_INT1_ISR><FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\main.asm</FILE><LINE>145</LINE></EXT_INT1_ISR>
+  <T2_OV_ISR><FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\main.asm</FILE><LINE>135</LINE></T2_OV_ISR>
+  <GAME><FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\main.asm</FILE><LINE>64</LINE></GAME>
+  <SHART><FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\main.asm</FILE><LINE>149</LINE></SHART>
+  <DARYAFT><FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\main.asm</FILE><LINE>155</LINE></DARYAFT>
+  <END><FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\main.asm</FILE><LINE>126</LINE></END>
+  <GHERMEZ><FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\main.asm</FILE><LINE>99</LINE></GHERMEZ>
+  <SABZ><FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\main.asm</FILE><LINE>110</LINE></SABZ>
+  <DELAY3s><FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\main.asm</FILE><LINE>217</LINE></DELAY3s>
+  <DELAY5s><FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\main.asm</FILE><LINE>225</LINE></DELAY5s>
+  <SHART1><FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\main.asm</FILE><LINE>156</LINE></SHART1>
+  <BAZGASHT><FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\main.asm</FILE><LINE>176</LINE></BAZGASHT>
+  <LED1><FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\main.asm</FILE><LINE>179</LINE></LED1>
+  <LED2><FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\main.asm</FILE><LINE>187</LINE></LED2>
+  <LED3><FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\main.asm</FILE><LINE>194</LINE></LED3>
+  <LED4><FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\main.asm</FILE><LINE>201</LINE></LED4>
+  <DELAY1s><FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\main.asm</FILE><LINE>208</LINE></DELAY1s>
+  <CPAGAIN1><FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\main.asm</FILE><LINE>212</LINE></CPAGAIN1>
+  <CPAGAIN3><FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\main.asm</FILE><LINE>221</LINE></CPAGAIN3>
+  <CPAGAIN5><FILE>D:\Term 5\system 2\Project\MostafaLatifian\MostafaLatifian\main.asm</FILE><LINE>229</LINE></CPAGAIN5>
+ </LABELS>
+</ASSEMBLER_INFO>
