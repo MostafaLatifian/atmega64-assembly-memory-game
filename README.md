@@ -58,5 +58,3 @@ The following artifacts were produced as part of the project:
 * **Project Report:** A comprehensive report detailing the design process, hardware mapping, algorithm, and implementation challenges.
 * **Proteus Design:** The full circuit diagram and simulation environment setup.
 
-***
-| **License** | [e.g., MIT License, or Not Licensed - Recommended to specify one] |
